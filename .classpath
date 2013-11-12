@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path=""/>
+	<classpathentry kind="src" path="spaceinvaders101"/>
+	<classpathentry kind="src" path="cube"/>
+	<classpathentry kind="src" path="leap"/>
+	<classpathentry kind="src" path="spaceinvaders104"/>
+	<classpathentry excluding="spaceinvaders101/|cube/|leap/|spaceinvaders104/" kind="src" path=""/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/UserLib"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>

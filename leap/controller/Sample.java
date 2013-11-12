@@ -6,7 +6,7 @@
  * https://developer.leapmotion.com/sdk_agreement, or another agreement         *
  * between Leap Motion and you, your company or other organization.             *
  \******************************************************************************/
-package leap.controller;
+package controller;
 
 import com.leapmotion.leap.*;
 import com.leapmotion.leap.Gesture.State;
